@@ -1,6 +1,6 @@
 const projets = [
   {
-    title: "Mon Portefolio Personnel",
+    title: "Mon Portfolio Personnel",
     description:
       "Site web développé avec React et TailwindCSS pour présenter mon parcours, mes compétences et mes projets.",
     tech: ["React", "TailwindCSS", "Vite"],
